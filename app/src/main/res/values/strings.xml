@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="error_read_permission">Ошибка! Невозможно прочитать файл. Пожалуйста, дайте разрешение на это.</string>
+    <string name="date">Дата выявления:</string>
+    <string name="target_finish">"Крайний срок выявления: "</string>
+    <string name="status">"Статус: "</string>
+    <string name="common_info">Общая информация</string>
+    <string name="registrator">Регистратор</string>
+    <string name="critLevel">Уровень критичности</string>
+    <string name="system">Система</string>
+    <string name="norm">Отклонение</string>
+    <string name="lnorm">Протяженность</string>
+    <string name="search">Поиск</string>
+</resources>
